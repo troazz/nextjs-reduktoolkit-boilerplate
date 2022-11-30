@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "stevencl.adddoccomments",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "editorconfig.editorconfig",
+    "sznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ettimo.nextjs-vscode-snippets",
+    "quicktype.quicktype",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "bradlc.vscode-tailwindcss",
+  ]
+}

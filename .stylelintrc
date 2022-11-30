@@ -1,0 +1,23 @@
+{
+  "extends": "stylelint-config-recommended",
+  "rules": {
+    "at-rule-no-unknown": [ true, {
+      "ignoreAtRules": [
+          "tailwind",
+          "apply",
+          "variants",
+          "responsive",
+          "screen",
+        ],
+    }],
+    "declaration-block-trailing-semicolon": null,
+    "no-descending-specificity": null,
+    "no-invalid-position-at-import-rule": null,
+    "block-no-empty": null,
+    "selector-list-comma-newline-after": null,
+    "number-no-trailing-zeros": null,
+    "unit-whitelist": ["rem", "px", "%", "vh", "s", "em", "deg"],
+    "indentation": 2,
+    "shorthand-property-no-redundant-values": null
+  }
+}
